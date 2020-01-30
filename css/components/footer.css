@@ -1,0 +1,33 @@
+.footer{
+  background-color: rgb(44, 42, 42);
+  background-size: cover;
+  height: 30vh;
+  margin-top: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  font-size: 2em;
+  padding: 0 5px;
+  display: inline-block;
+}
+
+span {
+  color: initial;
+}
+
+.footer a {
+  color: #1FDD88
+}
+
+.footer p {
+  color: rgba(255,255,255,0.2);
+}
